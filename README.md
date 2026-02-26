@@ -2,7 +2,7 @@
 
 # BEAUTI-FY SALON
 
-<img width="1200" height="400" alt="Run with Jazz Party (1200 x 400 px) (3)" src="https://github.com/user-attachments/assets/24867fd1-b73f-4ede-9991-f6b2e8aec2b8" />
+<img width="1200" height="400" alt="beauti-fysalon img" src="https://github.com/user-attachments/assets/cfa42b6d-4117-47af-a00c-5bc3ce3750c5" />
 
 
 Nama: Aliyah Azzah Sekedang
