@@ -1,8 +1,8 @@
 # MINI PROJECT (1) "RESERVASI SALON"
 
 # BEAUTI-FY SALON
-<img width="1200" height="400" alt="Run with Jazz Party (1200 x 400 px) (3)" src="https://github.com/user-attachments/assets/24867fd1-b73f-4ede-9991-f6b2e8aec2b8" />
 
+<img width="1200" height="400" alt="Run with Jazz Party (1200 x 400 px) (3)" src="https://github.com/user-attachments/assets/24867fd1-b73f-4ede-9991-f6b2e8aec2b8" />
 
 
 Nama: Aliyah Azzah Sekedang
