@@ -1,9 +1,11 @@
-# MINI PROJECT (1) "RESERVASI SALON"
+# MINI PROJECT PEMOGRAMAN APLIKASI BERGERAK (1) "RESERVASI SALON"
 
 # BEAUTI-FY SALON
 
 <img width="1200" height="400" alt="beauti-fysalon img" src="https://github.com/user-attachments/assets/cfa42b6d-4117-47af-a00c-5bc3ce3750c5" />
 
+
+## Disusun Oleh: 
 
 Nama: Aliyah Azzah Sekedang
 
