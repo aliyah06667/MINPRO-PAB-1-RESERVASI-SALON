@@ -203,7 +203,7 @@ Data akan langsung terhapus dari daftar
    <img src="https://github.com/user-attachments/assets/42ab2cd0-69dd-481d-ac5c-701f692f6fbf" width="400" style="border:2px solid #ddd; border-radius:10px;">
 </p>
 
-## Tampilan Aplikasi Keseluruhan Layar (Full)
+## 📌 Tampilan Aplikasi Keseluruhan Layar (Full)
 
 **Home Page**
 
